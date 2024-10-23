@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as: Senior Software Engineer at Intuit
+- 🌱 I’m enthusiastic about: Web, ML, AI, GenAI 
+- 📫 How to contact me: https://in.linkedin.com/in/reeti-sarup
+
+
+[![An image of @reetisarup's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reetisarup)](https://holopin.io/@reetisarup)
+
 <!--
 **REETI-SARUP/REETI-SARUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
