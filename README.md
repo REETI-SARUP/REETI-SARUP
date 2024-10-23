@@ -4,7 +4,7 @@
 - 🌱 I’m enthusiastic about: Web, ML, AI, GenAI 
 - 📫 How to contact me: https://in.linkedin.com/in/reeti-sarup
 
-## Badges
+## Hacktoberfest Badges
 
 [![An image of @reetisarup's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reetisarup)](https://holopin.io/@reetisarup)
 
