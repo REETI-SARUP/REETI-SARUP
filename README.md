@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working as: Senior Software Engineer at Intuit
-- 🌱 I’m enthusiastic about: Web, ML, AI, GenAI 
+- 🌱 I’m enthusiastic about: Full-Stack, Web, UI/UX, HCI, ML, DL, RL, AI, GenAI, Agentic AI, Software End-to-End Architecture, Tech Innovation & Research, Product Development
 - 📫 How to contact me: https://in.linkedin.com/in/reeti-sarup
 
 ## Hacktoberfest Badges
