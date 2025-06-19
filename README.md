@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 **I’m currently working as:** Senior Software Engineer at Intuit
-- 🌱 **I’m enthusiastic about:** Full-Stack, Web, UI/UX, Human Computer Interaction (HCI), Machine Learning, Deep Learning, Reinforcement Learning, Recommender Systems, AI, GenAI, NLP, Agentic AI, Responsible & Ethical AI, Sustainable AI, Climate Change & Environment, Agile, Software End-to-End Architecture, Tech Innovation & Research, Product Development
+- 🔭 **I’m currently working as:** Senior Software Engineer at Intuit in the Intuit AI Sciences & Smart Products Team, A2D (AI, Data & Analytics) org; previously in Mid-Market AI, QBO Advanced & IES Product Development Team, GBSG (Global Business Solutions Group) org. 
+- 🌱 **I’m enthusiastic about:** Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Recommender Systems, AI, GenAI, NLP, Agentic AI, Full-Stack, Web, UI/UX, Human Computer Interaction (HCI), Responsible & Ethical AI, Sustainable AI, Climate Change & Environment, Agile, Software End-to-End Architecture, Tech Innovation & Research, Product Development
 - 📫 **How to contact me:** https://in.linkedin.com/in/reeti-sarup
 
 ## Hacktoberfest Badges
