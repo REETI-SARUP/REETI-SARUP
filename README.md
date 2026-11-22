@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 **I’m currently working as:** Senior Software Engineer at Intuit in the Intuit AI Sciences & Smart Products Team, A2D (AI, Data & Analytics) org; previously in Mid-Market AI, QBO Advanced & IES Product Development Team, GBSG (Global Business Solutions Group) org. 
+- 🔭 **I’m currently working as:** Staff Software Engineer in the Mid-Market AI Team at Intuit. Building production-ready Enterprise-grade AI/ML and full-stack solutions for Trustworthy FinTech.
 - 🌱 **I’m enthusiastic about:** Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Recommender Systems, AI, GenAI, NLP, Agentic AI, Full-Stack, Web, UI/UX, Human Computer Interaction (HCI), Responsible & Ethical AI, Sustainable AI, Climate Change & Environment, Agile, Software End-to-End Architecture, Tech Innovation & Research, Product Development
 - 📫 **How to contact me:** https://in.linkedin.com/in/reeti-sarup
 
